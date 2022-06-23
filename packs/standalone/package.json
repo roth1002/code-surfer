@@ -34,7 +34,7 @@
     "diff": "^4.0.1",
     "prismjs": "^1.16.0",
     "rebound": "^0.1.0",
-    "shell-quote": "^1.6.1"
+    "shell-quote": "^1.7.3"
   },
   "devDependencies": {
     "@types/diff": "^4.0.2",
